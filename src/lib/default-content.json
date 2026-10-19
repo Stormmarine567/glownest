@@ -1,0 +1,529 @@
+{
+ "content": {
+  "home_hero": {
+   "eyebrow": "CLEAN. EFFECTIVE. RADIANT.",
+   "heading": "Healthy Skin Starts Here.",
+   "text": "Science-backed skincare solutions designed to reveal your natural glow and boost your confidence.",
+   "primary_cta": {
+    "label": "Shop Bestsellers",
+    "href": "/shop"
+   },
+   "secondary_cta": {
+    "label": "Explore Routine",
+    "href": "/quiz"
+   },
+   "image_url": "/images/hero-model.svg",
+   "trust": {
+    "text": "Trusted by 25K+ customers",
+    "rating": "4.9/5"
+   },
+   "results_card": {
+    "title": "Clinically Proven Results",
+    "rows": [
+     [
+      "Hydration",
+      "+92%"
+     ],
+     [
+      "Smoothness",
+      "+88%"
+     ],
+     [
+      "Radiance",
+      "+85%"
+     ],
+     [
+      "Even Tone",
+      "+80%"
+     ]
+    ],
+    "footnote": "*Based on 4 weeks of use"
+   }
+  },
+  "home_about": {
+   "eyebrow": "/ ABOUT US",
+   "heading": "Skincare that loves your skin and the planet.",
+   "text": "We create clean, effective, and sustainable skincare that delivers visible results — without compromise.",
+   "cta": {
+    "label": "Our Story",
+    "href": "/our-story"
+   },
+   "image_url": "/images/about-botanical.svg",
+   "features": [
+    {
+     "icon": "leaf",
+     "title": "Clean Ingredients",
+     "text": "Safe, non-toxic & dermatologist tested."
+    },
+    {
+     "icon": "heart",
+     "title": "Cruelty Free",
+     "text": "Kind to animals, always."
+    },
+    {
+     "icon": "recycle",
+     "title": "Sustainable",
+     "text": "Eco-conscious packaging."
+    },
+    {
+     "icon": "users",
+     "title": "For All Skin Types",
+     "text": "Gentle care for every skin."
+    }
+   ]
+  },
+  "home_routine_banner": {
+   "heading": "Build your perfect skincare routine",
+   "text": "Personalized care for your unique skin needs.",
+   "badges": [
+    "Personalized for you",
+    "Dermatologist-approved",
+    "Backed by science"
+   ],
+   "cta": {
+    "label": "Take Skin Quiz",
+    "href": "/quiz"
+   },
+   "image_url": "/images/routine-flatlay.svg"
+  },
+  "home_concerns": {
+   "eyebrow": "/ FIND YOUR CARE",
+   "heading": "Discover the treatment that's right for you.",
+   "cta": {
+    "label": "Take Skin Quiz",
+    "href": "/quiz"
+   },
+   "image_url": "/images/treatment-model.svg",
+   "items": [
+    {
+     "icon": "shield",
+     "title": "Acne Care",
+     "text": "Clear and calm your skin.",
+     "concern": "acne"
+    },
+    {
+     "icon": "sun",
+     "title": "Anti-Aging",
+     "text": "Reduce fine lines and wrinkles.",
+     "concern": "aging"
+    },
+    {
+     "icon": "sparkles",
+     "title": "Brightening",
+     "text": "Boost radiance and even tone.",
+     "concern": "dullness"
+    },
+    {
+     "icon": "droplets",
+     "title": "Hydration",
+     "text": "Deep moisture for all-day glow.",
+     "concern": "dehydration"
+    }
+   ]
+  },
+  "home_promise": {
+   "eyebrow": "/ OUR PROMISE",
+   "heading": "Effective skincare with clean, natural ingredients.",
+   "pills": [
+    "Paraben Free",
+    "Sulfate Free",
+    "Silicone Free"
+   ],
+   "cta": {
+    "label": "Shop Clean Skincare",
+    "href": "/shop"
+   }
+  },
+  "home_testimonials": {
+   "eyebrow": "/ REAL RESULTS",
+   "heading": "Real People, Real Results",
+   "items": [
+    {
+     "quote": "Lumière has transformed my skin! It's glowing, hydrated, and so much smoother.",
+     "name": "Jessica R.",
+     "place": "New York, USA"
+    },
+    {
+     "quote": "Finally found skincare that's gentle and effective. My skin has never looked better!",
+     "name": "Amanda L.",
+     "place": "London, UK"
+    }
+   ]
+  },
+  "nav": {
+   "links": [
+    {
+     "label": "Home",
+     "href": "/"
+    },
+    {
+     "label": "Shop",
+     "href": "/shop"
+    },
+    {
+     "label": "Our Story",
+     "href": "/our-story"
+    },
+    {
+     "label": "Blog",
+     "href": "/blog"
+    },
+    {
+     "label": "Contact",
+     "href": "/contact"
+    }
+   ]
+  },
+  "footer": {
+   "newsletter_text": "Get 10% off and skincare tips",
+   "copyright": "Glownest Skincare. All rights reserved.",
+   "columns": [
+    {
+     "title": "SHOP",
+     "links": [
+      {
+       "label": "All Products",
+       "href": "/shop"
+      },
+      {
+       "label": "Best Sellers",
+       "href": "/shop?filter=bestsellers"
+      },
+      {
+       "label": "New Arrivals",
+       "href": "/shop?filter=new"
+      },
+      {
+       "label": "Skincare Quiz",
+       "href": "/quiz"
+      }
+     ]
+    },
+    {
+     "title": "COMPANY",
+     "links": [
+      {
+       "label": "Our Story",
+       "href": "/our-story"
+      },
+      {
+       "label": "Sustainability",
+       "href": "/sustainability"
+      },
+      {
+       "label": "Careers",
+       "href": "/careers"
+      }
+     ]
+    },
+    {
+     "title": "HELP",
+     "links": [
+      {
+       "label": "FAQ",
+       "href": "/faq"
+      },
+      {
+       "label": "Shipping",
+       "href": "/shipping"
+      },
+      {
+       "label": "Returns",
+       "href": "/returns"
+      },
+      {
+       "label": "Contact Us",
+       "href": "/contact"
+      }
+     ]
+    }
+   ]
+  },
+  "our_story": {
+   "eyebrow": "/ OUR STORY",
+   "heading": "Beauty that believes in better.",
+   "text": "Glownest was born from a simple belief: skincare should be clean, effective, and kind to the planet. We combine the best of science and nature to create products that deliver real results without compromise.",
+   "cta": {
+    "label": "Shop Our Products",
+    "href": "/shop"
+   },
+   "image_url": "/images/about-botanical.svg",
+   "journey_heading": "From Paris to the World",
+   "timeline": [
+    {
+     "year": "2018",
+     "title": "The Beginning",
+     "text": "Founded in Paris with a mission to create skincare that's both effective and sustainable."
+    },
+    {
+     "year": "2019",
+     "title": "First Collection",
+     "text": "Launched our signature Glow Serum and Hydra Moisturizer to overwhelming positive response."
+    },
+    {
+     "year": "2021",
+     "title": "Global Reach",
+     "text": "Expanded to 30+ countries, earning trust from over 100,000 customers worldwide."
+    },
+    {
+     "year": "2024",
+     "title": "Today",
+     "text": "Continuing to innovate with clean formulas backed by science and loved by all skin types."
+    }
+   ],
+   "values_heading": "What We Stand For",
+   "values": [
+    {
+     "icon": "leaf",
+     "title": "Clean Formulas",
+     "text": "Every ingredient is carefully selected for safety and efficacy. No harmful chemicals, ever."
+    },
+    {
+     "icon": "heart",
+     "title": "Cruelty Free",
+     "text": "We never test on animals. Certified by Leaping Bunny and committed to ethical beauty."
+    },
+    {
+     "icon": "recycle",
+     "title": "Sustainable",
+     "text": "Eco-conscious packaging made from recycled materials. Carbon-neutral shipping worldwide."
+    },
+    {
+     "icon": "globe",
+     "title": "Globally Sourced",
+     "text": "Premium ingredients sourced responsibly from trusted suppliers around the world."
+    },
+    {
+     "icon": "award",
+     "title": "Dermatologist Approved",
+     "text": "All products are clinically tested and approved by leading dermatologists."
+    },
+    {
+     "icon": "users",
+     "title": "For Everyone",
+     "text": "Inclusive formulations designed to work beautifully on every skin type and tone."
+    }
+   ],
+   "cta_banner": {
+    "heading": "Ready to start your skincare journey?",
+    "text": "Discover products tailored to your unique skin needs.",
+    "cta": {
+     "label": "Explore Products",
+     "href": "/shop"
+    },
+    "image_url": "/images/routine-flatlay.svg"
+   }
+  },
+  "quiz": {
+   "title": "Find your perfect routine",
+   "intro": "Answer a few quick questions and we will build a routine from our catalogue, matched to your skin.",
+   "skin_types": [
+    {
+     "id": "dry",
+     "label": "Dry",
+     "hint": "Feels tight, flaky or rough"
+    },
+    {
+     "id": "oily",
+     "label": "Oily",
+     "hint": "Shiny, prone to breakouts"
+    },
+    {
+     "id": "combination",
+     "label": "Combination",
+     "hint": "Oily T-zone, drier cheeks"
+    },
+    {
+     "id": "sensitive",
+     "label": "Sensitive",
+     "hint": "Easily irritated or red"
+    },
+    {
+     "id": "normal",
+     "label": "Normal",
+     "hint": "Balanced, few concerns"
+    }
+   ],
+   "concerns": [
+    {
+     "id": "acne",
+     "label": "Acne & blemishes"
+    },
+    {
+     "id": "aging",
+     "label": "Fine lines & wrinkles"
+    },
+    {
+     "id": "dullness",
+     "label": "Dullness"
+    },
+    {
+     "id": "dehydration",
+     "label": "Dehydration"
+    },
+    {
+     "id": "dark_spots",
+     "label": "Dark spots"
+    },
+    {
+     "id": "redness",
+     "label": "Redness"
+    }
+   ],
+   "goals": [
+    {
+     "id": "hydrate",
+     "label": "Deep hydration"
+    },
+    {
+     "id": "brighten",
+     "label": "Brighter, even tone"
+    },
+    {
+     "id": "protect",
+     "label": "Daily protection"
+    },
+    {
+     "id": "clear",
+     "label": "Clearer skin"
+    },
+    {
+     "id": "firm",
+     "label": "Firmer skin"
+    }
+   ],
+   "preferences": [
+    {
+     "id": "fragrance_free",
+     "label": "Fragrance-free only"
+    },
+    {
+     "id": "vegan",
+     "label": "Vegan formulas only"
+    },
+    {
+     "id": "minimal",
+     "label": "Keep it minimal (3 steps)"
+    }
+   ]
+  }
+ },
+ "pages": {
+  "shipping": {
+   "title": "Shipping",
+   "summary": "Everything about how we get your order to you.",
+   "body": {
+    "sections": [
+     {
+      "heading": "Shipping methods",
+      "body": "Standard (tracked) and Express (priority tracked) delivery are available at checkout."
+     },
+     {
+      "heading": "Delivery estimates",
+      "body": "Standard: 5–8 business days. Express: 2–3 business days. Orders are dispatched within 1–2 business days."
+     },
+     {
+      "heading": "Shipping charges",
+      "body": "Standard shipping is free on orders above the free-shipping threshold shown in your cart. Express is always charged at the rate shown at checkout."
+     },
+     {
+      "heading": "Tracking",
+      "body": "You receive an email and a dashboard notification with your tracking number as soon as your order ships."
+     },
+     {
+      "heading": "Delivery conditions",
+      "body": "Please make sure your address is complete and that someone can receive the parcel. Contact us promptly if your parcel is delayed."
+     }
+    ]
+   }
+  },
+  "returns": {
+   "title": "Returns",
+   "summary": "Our return and refund policy.",
+   "body": {
+    "sections": [
+     {
+      "heading": "Return policy",
+      "body": "If you are not happy, you may request a return within 30 days of delivery."
+     },
+     {
+      "heading": "Eligibility",
+      "body": "Items must be unused or less than 20% used, in original packaging. Opened products that caused a reaction are always eligible."
+     },
+     {
+      "heading": "How to return",
+      "body": "Open the order in your dashboard and choose Request return. We reply within one business day with instructions."
+     },
+     {
+      "heading": "Refunds",
+      "body": "Approved refunds go back to your original payment method within 5–10 business days of us receiving the parcel."
+     }
+    ]
+   }
+  },
+  "privacy": {
+   "title": "Privacy Policy",
+   "summary": "How GLOWNEST handles your information.",
+   "body": {
+    "sections": [
+     {
+      "heading": "Information we collect",
+      "body": "Account details, order and delivery information, and the preferences you give us (such as your skincare quiz answers)."
+     },
+     {
+      "heading": "How we use it",
+      "body": "To fulfil orders, provide support, personalise recommendations, and — only with your consent — send marketing emails."
+     },
+     {
+      "heading": "Data protection",
+      "body": "Data is stored with Supabase using encryption in transit and at rest. Payments are processed by our payment partners; we never store card numbers."
+     },
+     {
+      "heading": "Cookies and tracking",
+      "body": "We use essential cookies for sign-in and your cart, and optional analytics if enabled."
+     },
+     {
+      "heading": "Your rights",
+      "body": "You can access, correct, export or delete your data, and unsubscribe from marketing at any time."
+     },
+     {
+      "heading": "Contact",
+      "body": "Email hello@glownest.com with any privacy question."
+     }
+    ]
+   }
+  },
+  "sustainability": {
+   "title": "Sustainability",
+   "summary": "Kind to your skin and the planet.",
+   "body": {
+    "sections": [
+     {
+      "heading": "Recycled packaging",
+      "body": "Our packaging is made from recycled materials and designed to be recycled again."
+     },
+     {
+      "heading": "Carbon-neutral shipping",
+      "body": "We offset the emissions of every parcel we ship."
+     }
+    ]
+   }
+  },
+  "careers": {
+   "title": "Careers",
+   "summary": "Help us build skincare that believes in better.",
+   "body": {
+    "sections": [
+     {
+      "heading": "Life at GLOWNEST",
+      "body": "We are a small, ambitious team that cares about science, sustainability and kindness."
+     },
+     {
+      "heading": "How to apply",
+      "body": "Send your CV and a short note about why you would like to join to careers@glownest.com, mentioning the role title in the subject line."
+     }
+    ]
+   }
+  }
+ }
+}
