@@ -14,6 +14,7 @@ interface CartCtx {
 
 const Ctx = createContext<CartCtx | null>(null);
 const KEY = 'glownest_cart_v1';
+const UUID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
 const same = (l: CartLine, p: string, v?: string | null) => l.productId === p && (l.variantId ?? null) === (v ?? null);
 
 export function CartProvider({ children, isAuthed }: { children: ReactNode; isAuthed: boolean }) {
@@ -27,6 +28,8 @@ export function CartProvider({ children, isAuthed }: { children: ReactNode; isAu
   useEffect(() => {
     let local: CartLine[] = [];
     try { local = JSON.parse(localStorage.getItem(KEY) || '[]'); } catch { /* ignore */ }
+    // Drop leftovers from demo mode or older versions (ids that are not real product ids).
+    local = (Array.isArray(local) ? local : []).filter((l) => l && UUID.test(String(l.productId)) && (!l.variantId || UUID.test(String(l.variantId))) && Number.isInteger(l.quantity) && l.quantity > 0);
     setLines(local);
     if (!isAuthed) { setReady(true); return; }
     fetch('/api/cart').then((r) => (r.ok ? r.json() : { lines: [] })).then(({ lines: remote }: { lines: CartLine[] }) => {
